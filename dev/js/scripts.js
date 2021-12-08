@@ -31,8 +31,8 @@ function Shapes(){
     .from("#vector-16",{duration: .75, drawSVG: "0%"}, "-=70%")
     .from("#vector-17",{duration: .75, drawSVG: "0%"}, "-=70%")
     .from("#vector-18",{duration: .75, drawSVG: "0%"}, "-=70%")
-    .from("#LONGWOOD", {duration: 3, x:+-500, alpha:0})
-    .from("#GARDENS", {duration: 3, x:-+500, alpha:0})
+    .from("#LONGWOOD", {duration: 3, x:+-700, alpha:0})
+    .from("#GARDENS", {duration: 3, x:-+700, alpha:0})
 
     return tl
 }
